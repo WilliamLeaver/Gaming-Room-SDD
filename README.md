@@ -1,5 +1,4 @@
 # Gaming Room Software-Design-Document
-Software Design Document created for The Gaming Room 
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 - The Gaming Room client had plans for many games the user can get to via their servers. They wanted us to build a game that would integrate into their system called Draw it or Lose it. 
